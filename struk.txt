@@ -1,4 +1,4 @@
-//the output will go here if you run this program
+//If you run the program, the output will be saved by creating a new .txt file.
 
 ====================
    STRUK PEMBAYARAN    
