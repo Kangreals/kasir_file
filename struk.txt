@@ -1,0 +1,13 @@
+//the output will go here if you run this program
+
+====================
+   STRUK PEMBAYARAN    
+
+====================
+Nama Barang    Jumlah    Harga     Total     
+====================
+Total Belanja : Rp 60500
+Uang Bayar : Rp 100000
+Kembalian : Rp 39500
+====================
+Terimakasih telah berbelanja!
